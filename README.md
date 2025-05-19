@@ -1,5 +1,7 @@
 ## Guide
 
+![image](https://github.com/user-attachments/assets/9f12ec27-09ed-4b96-b3ea-037c9543be19)
+
 ### Prerequisites
 - Node.js (v16 or higher)
 - yarn package manager
