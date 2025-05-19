@@ -61,6 +61,14 @@
           "launchMode": "most-recent"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "96f595b5-4a0f-4100-b3bb-621c635bc782"
+      }
+    }
   }
 }
