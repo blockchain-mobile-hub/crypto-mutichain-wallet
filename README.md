@@ -2,7 +2,7 @@
 
 ### Prerequisites
 - Node.js (v16 or higher)
-- npm or yarn package manager
+- yarn package manager
 - Git
 
 ### Installation
@@ -14,16 +14,12 @@ cd crypto-mutichain-wallet
 
 2. Install dependencies:
 ```bash
-npm install
-# or
 yarn install
 ```
 
 3. Start the development server:
-```bash
-npm run dev
-# or
-yarn dev
+```bas
+yarn start
 ```
 
 The application will be available at `http://localhost:3000`
